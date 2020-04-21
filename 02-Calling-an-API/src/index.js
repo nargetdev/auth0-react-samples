@@ -22,6 +22,7 @@ ReactDOM.render(
     audience={config.audience}
     redirect_uri={window.location.origin}
     onRedirectCallback={onRedirectCallback}
+    scope={'read:messages'}
   >
     <App />
   </Auth0Provider>,
