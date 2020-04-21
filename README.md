@@ -1,4 +1,4 @@
-### Inspired by https://github.com/LawJolla/prisma-auth0-example.git to migrate idiomatic fullstack GraphQL Auth/Roles pattern up to prisma2
+Inspired by https://github.com/LawJolla/prisma-auth0-example.git to migrate idiomatic fullstack GraphQL Auth/Roles pattern up to prisma2
 
 # Initiative to PR to [prisma-examples](https://github.com/prisma/prisma-examples)
 
